@@ -1,9 +1,10 @@
 import React from 'react'
+import './Header.scss'
 
 const Header = () => {
     return (
-        <div>
-            Header Component
+        <div className='header-container'>
+            <h2>¡Registrate en nuestra app!</h2>
         </div>
     )
 }

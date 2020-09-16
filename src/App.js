@@ -10,6 +10,7 @@ function App() {
     <div className="App">
       <Header />
       <Form/>
+      <div className="shape"></div>
     </div>
   );
 }
